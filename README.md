@@ -23,7 +23,7 @@ https://y154541000.github.io/BookConfig/
 |  2  |  55小说网  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/master/55%E5%B0%8F%E8%AF%B4%E7%BD%91.json)  |
 |  3  |  85小说网  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/master/85%E5%B0%8F%E8%AF%B4%E7%BD%91.json)  |
 |  4  |  半亩方塘  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/master/%E5%8D%8A%E4%BA%A9%E6%96%B9%E5%A1%98.json)  |
-|  5  |  去看看  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/master/%E5%8E%BB%E7%9C%8B%E7%9C%8B.json)  |四库书  然文
+|  5  |  去看看  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/master/%E5%8E%BB%E7%9C%8B%E7%9C%8B.json)  |
 |  6  |  淘淘全本小说  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/master/%E6%B7%98%E6%B7%98%E5%85%A8%E6%9C%AC%E5%B0%8F%E8%AF%B4.json)  |
 |  7  |  疯狂中文网  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/master/%E7%96%AF%E7%8B%82%E4%B8%AD%E6%96%87%E7%BD%91.json)  |
 |  8  |  追书库  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/master/%E8%BF%BD%E4%B9%A6%E5%BA%93.json)  |
