@@ -13,7 +13,7 @@ https://github.com/y154541000/BookConfig
 
 同**获取书源配置**就可以获取所有的书源了。
 
-![输入图片说明](https://raw.githubusercontent.com/y154541000/BookConfig/master/img/20190316021900.jpg")
+![输入图片说明](https://raw.githubusercontent.com/y154541000/BookConfig/master/img/20190316021900.jpg)
 
 ------------
 
