@@ -25,7 +25,7 @@ https://github.com/y154541000/BookConfig
 |  4  |  半亩方塘  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/半亩方塘.json)  |
 |  5  |  去看看  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/去看看.json)  |
 |  6  |  淘淘全本小说  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/淘淘全本小说.json)  |
-|  7  |  疯狂中文网  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/疯狂中文网 .json)  |
+|  7  |  疯狂中文网  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/疯狂中文网.json)  |
 |  8  |  追书库  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/追书库.json)  |
 |  9  |  追书神器（多源）  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/追书神器（多源）.json)  |
 |  10  |  阅读悦  |  2019/3/13 0:36:41  |  [导入](ifreetime://configs/https://raw.githubusercontent.com/y154541000/BookConfig/master/阅读悦.json)  |
